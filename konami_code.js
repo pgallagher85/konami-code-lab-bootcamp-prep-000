@@ -15,4 +15,3 @@ function init() {
     index = 0;
   })
 }
-
