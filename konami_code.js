@@ -11,7 +11,8 @@ function init() {
         alert(`You've entered the correct code!`);
         i = 0;
       }
+    } else {
+      index = 0;
     }
-    index = 0;
   })
 }
